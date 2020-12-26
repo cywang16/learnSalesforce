@@ -1,0 +1,17 @@
+{
+    "serverMaxRevisionCounter": 52,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": 50,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Default_Navigation": {
+            "serverRevisionCounter": 52,
+            "lastRetrievedFromServer": 52,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        }
+    }
+}
