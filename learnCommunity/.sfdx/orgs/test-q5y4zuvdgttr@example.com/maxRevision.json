@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 52,
+    "serverMaxRevisionCounter": 342,
     "sourceMembers": {
         "Profile__Admin": {
             "serverRevisionCounter": 50,
@@ -8,9 +8,27 @@
             "isNameObsolete": false
         },
         "NavigationMenu__Default_Navigation": {
-            "serverRevisionCounter": 52,
-            "lastRetrievedFromServer": 52,
+            "serverRevisionCounter": 342,
+            "lastRetrievedFromServer": 342,
             "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "ExperienceBundle__Beginners1": {
+            "serverRevisionCounter": 341,
+            "lastRetrievedFromServer": 341,
+            "memberType": "ExperienceBundle",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Beginners1/config/beginners.json": {
+            "serverRevisionCounter": 230,
+            "lastRetrievedFromServer": 230,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Beginners1/views/home.json": {
+            "serverRevisionCounter": 340,
+            "lastRetrievedFromServer": 340,
+            "memberType": "ExperienceResource",
             "isNameObsolete": false
         }
     }

@@ -2488,7 +2488,6 @@
     },
     "C:\\GIT\\learnSalesforce\\learnCommunity\\force-app\\main\\default\\experiences\\Beginners1\\views\\home.json": {
         "sourcePath": "C:\\GIT\\learnSalesforce\\learnCommunity\\force-app\\main\\default\\experiences\\Beginners1\\views\\home.json",
-        "deferContentHash": false,
         "isWorkspace": false,
         "isArtifactRoot": false,
         "state": "u",
@@ -2496,10 +2495,10 @@
         "isDirectory": false,
         "isMetadataFile": false,
         "metadataType": "ExperienceBundle",
-        "size": 6778,
-        "modifiedTime": 1608949408143,
-        "changeTime": 1608949408143,
-        "contentHash": "a66d4ca8a3ca12f1614d26c011d0f749aa98524c"
+        "size": 6786,
+        "modifiedTime": 1608950624589,
+        "changeTime": 1608950624589,
+        "contentHash": "3f4f9a5fae70a817f975bb84668f4e1795eb41ed"
     },
     "C:\\GIT\\learnSalesforce\\learnCommunity\\force-app\\main\\default\\experiences\\Beginners1\\views\\login.json": {
         "sourcePath": "C:\\GIT\\learnSalesforce\\learnCommunity\\force-app\\main\\default\\experiences\\Beginners1\\views\\login.json",
